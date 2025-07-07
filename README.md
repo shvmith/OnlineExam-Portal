@@ -32,5 +32,17 @@ An online examination management system that allows administrators to create, ma
 
 ---
 
+```markdown
 ## 📁 Project Structure
+
+```text
+OnlineExam-Portal/
+├── admin/              # Admin panel
+├── student/            # Student dashboard
+├── css/                # Styling
+├── js/                 # JavaScript files
+├── db/                 # Database scripts
+├── includes/           # Common PHP includes
+├── index.php           # Main entry point
+└── README.md           # Project description
 
