@@ -28,21 +28,12 @@ An online examination management system that allows administrators to create, ma
 
 ## 📷 Screenshots
 
-> *(Add screenshots of login, dashboard, quiz page here — you can just drag and drop into GitHub or paste the markdown once uploaded)*
+### 🔐 Login
+![localhost_OnlineExam-Portal_login php](https://github.com/user-attachments/assets/302673f5-496c-49d3-81c3-04881e3f9286)
+
+### 🔐 Admin Dashboard
+### 🔐 Admin Dashboard
+### 🔐 Admin Dashboard
 
 ---
-
-```markdown
-## 📁 Project Structure
-
-```text
-OnlineExam-Portal/
-├── admin/              # Admin panel
-├── student/            # Student dashboard
-├── css/                # Styling
-├── js/                 # JavaScript files
-├── db/                 # Database scripts
-├── includes/           # Common PHP includes
-├── index.php           # Main entry point
-└── README.md           # Project description
 
