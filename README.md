@@ -1,34 +1,71 @@
-# 🎓 Online Exam Portal
+# 🎓 Online Exam Portal  
 
-An online examination management system that allows administrators to create, manage, and evaluate quizzes for students. Built as a PHP-based full-stack web application with MySQL for backend database management.
+## 📌 Project Overview  
+A PHP-based web application for online examination management with:  
+✅ **Admin Dashboard** (Full CRUD operations for Quizzes/Events/Announcement)  
+✅ **Student Exam Portal** (Students can easily access and take exams through a user-friendly interface)  
+✅ **Announcement System** (Real-time updates for students)  
+✅ **Secure Authentication** (Login system with proper session handling for students and admin users)  
 
----
-
-## Features
-
-- 🧑‍💻 **Full Admin Control**: Manage quizzes, events, and announcements with complete Create, Read, Update, and Delete (CRUD) functionality.
-- 📝 **Student Quiz Portal**: Students can easily access and take exams through a user-friendly interface.
-- 📢 **Announcement Module**: Admins can post important announcements to inform students about upcoming events, updates, or notices.
-- 📅 **Event Management**: Easily add, update, and remove events with categorized details for better scheduling.
-- 🔐 **Secure Authentication**: Login system with proper session handling for students and admin users.
-- 🎨 **Clean & Responsive UI**: Custom CSS and simple layout design ensure a user-friendly experience across all devices.
-
+Built with **PHP, MySQL, HTML/CSS**, deployed on **XAMPP Server**.  
 
 ---
 
-## Tech Stack
-
-| Layer       | Technology           |
-|------------|----------------------|
-| Frontend    | HTML, CSS, JavaScript |
-| Backend     | PHP                  |
-| Database    | MySQL                |
-| Version Control | Git + GitHub     |
-| Editor      | VS Code              |
+## 🛠 Technologies & Tools  
+| Category       | Technologies Used               |
+|----------------|---------------------------------|
+| **Frontend**   | HTML5, CSS3, JavaScript         |
+| **Backend**    | PHP 8.0+                        |
+| **Database**   | MySQL (phpMyAdmin)              |
+| **Server**     | Apache (XAMPP)                  |
+| **IDE**        | VS Code                         |
 
 ---
 
-## Screenshots
+## ✨ Key Features  
+
+### **1. Admin Dashboard**  
+- Create/Edit/Delete quizzes with multiple question types  
+- Manage events and academic schedules  
+- Post announcements  
+- View student performance analytics  
+
+### **2. Student Portal**  
+- Take timed quizzes with auto-submission   
+- Access study materials and announcements  
+
+### **3. Secure Authentication**  
+- Role-based access (Admin/Student)  
+- Session management  
+- Password protection  
+
+---
+
+## 🚀 Setup Guide  
+
+### Prerequisites  
+- XAMPP/WAMP Server  
+- PHP 8.0+  
+- MySQL 5.7+  
+- VS Code (with PHP Intelephense extension)  
+ 
+### Database Setup  
+- Import provided SQL file from /database
+
+### XAMPP Configuration
+- Clone repo to htdocs folder
+- Start Apache & MySQL services
+
+### Environment Setup
+- Update config.php with your database credentials:
+
+### Access Application
+- Admin: http://localhost/OnlineExam-Portal/admin
+- Student: http://localhost/OnlineExam-Portal
+
+---
+
+##  📸 Screenshots
 
 ---
 
@@ -45,4 +82,18 @@ An online examination management system that allows administrators to create, ma
 ![localhost_OnlineExam-Portal_admin_quizmanage php](https://github.com/user-attachments/assets/faca4c93-e411-4c6e-a8c4-2109a0968f8e)
 
 ---
+
+## 📜 License
+This project is open-source under the MIT License.
+
+---
+
+## 📞 Contact
+For any queries, feel free to reach out:
+- 📧 [rosandeepasamith@gmail.com]
+- 🔗 [https://github.com/shvmith]
+
+
+
+
 
