@@ -91,7 +91,7 @@ This project is open-source under the MIT License.
 ## 📞 Contact
 For any queries, feel free to reach out:
 - 📧 [rosandeepasamith@gmail.com]
-- 🔗 [https://github.com/shvmith]
+- 🔗 [[https://github.com/shvmith](https://www.linkedin.com/in/roshith-sandeepa-9a54782b2/)]
 
 
 
